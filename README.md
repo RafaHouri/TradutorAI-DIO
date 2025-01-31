@@ -9,7 +9,6 @@ Este tradutor impulsionado pela inteligência artificial do Azure, oferece tradu
 **Funcionalidades:**
 
 * **Tradução de documentos:** Converta seus documentos .docx para diversos idiomas.
-* **Tradução de artigos:** Extraia texto de páginas web e obtenha traduções instantâneas.
 * **Personalização:** Ajuste as traduções para atender às suas necessidades específicas.
 * **Integração com Azure:** Aproveite os benefícios da nuvem Azure para escalabilidade e performance.
 
